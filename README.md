@@ -1,2 +1,2 @@
-# docker-elasticsearch-jdbc
+# elasticsearch-jdbc
 Elasticsearch JDBC Docker Container
