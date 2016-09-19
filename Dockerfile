@@ -1,6 +1,6 @@
-FROM elasticsearch:2.3.3
+FROM elasticsearch:2.3.4
 
-ENV JDBC_IMPORTER_VERSION 2.3.3.0
+ENV JDBC_IMPORTER_VERSION 2.3.4.1
 ENV JDBC_IMPORTER_URL http://xbib.org/repository/org/xbib/elasticsearch/importer/elasticsearch-jdbc/$JDBC_IMPORTER_VERSION/elasticsearch-jdbc-$JDBC_IMPORTER_VERSION-dist.zip
 
 # Download and install the Elasticsearch-jdbc package
